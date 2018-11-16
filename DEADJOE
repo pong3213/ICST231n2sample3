@@ -1,0 +1,26 @@
+
+*** These modified files were found in JOE when it aborted on Fri Nov 16 19:14:22 2018
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/students/ICST231n2sample3/.git/COMMIT_EDITMSG
+
+*** File '/home/students/ICST231n2sample3/.git/COMMIT_EDITMSG'
+"edit readme"
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   README.md
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
